@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/base@sha256:cfdc553400d41b47fd231b028403469811fcdbc0e69d66ea8030c5a0b5fbac2b
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/kubeconfigwriter:v0.32.1@sha256:fc663b53693f55592e9639f1b65132cce002f1b50329389524740c32cc314bc3
